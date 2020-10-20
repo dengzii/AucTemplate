@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.blankj.feature0.pkg">
+
+    <application>
+        <activity android:name="com.example.feature0.pkg.Feature0Activity"/>
+    </application>
+
+
+</manifest>

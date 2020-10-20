@@ -1,0 +1,12 @@
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    api Config.depConfig.utilcode.dep
+    api Config.depConfig.free_proguard.dep
+    api Config.depConfig.swipe_panel.dep
+
+    api Config.depConfig.support_appcompat_v7.dep
+    api Config.depConfig.support_design.dep
+    api Config.depConfig.support_multidex.dep
+    api Config.depConfig.support_constraint.dep
+    api Config.depConfig.kotlin.dep
+}
