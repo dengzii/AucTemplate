@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.launcher.app">
+    package="com.example.sing">
 
     <application
-        android:name="com.example.common.CommonApplication"
-        android:allowBackup="false"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme">
-        <activity android:name="com.example.feature0.pkg.Feature0Activity">
+        android:label="TemplateProject"
+        android:icon="@drawable/ic_launcher"
+        android:allowBackup="true"
+        android:theme="@android:style/Theme.Light">
+        <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>
-
 </manifest>

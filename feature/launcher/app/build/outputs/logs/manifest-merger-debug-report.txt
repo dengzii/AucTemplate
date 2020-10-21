@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:17:1-72:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\57a8856cc4904fb2e5b09d47ba1c47c8\leakcanary-object-watcher-android-androidx-2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\58dfa70c0104ea34b23b5da372d2b9ec\jetified-leakcanary-object-watcher-android-support-fragments-2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:5:5-16:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:28:5-70:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:28:5-70:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:7:5-12:19
+	android:label
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:6:9-40
+	android:icon
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:9:9-51
+activity#com.example.sing.MainActivity
+ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:10:9-15:20
+	android:name
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\57a8856cc4904fb2e5b09d47ba1c47c8\leakcanary-object-watcher-android-androidx-2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\57a8856cc4904fb2e5b09d47ba1c47c8\leakcanary-object-watcher-android-androidx-2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\58dfa70c0104ea34b23b5da372d2b9ec\jetified-leakcanary-object-watcher-android-support-fragments-2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\58dfa70c0104ea34b23b5da372d2b9ec\jetified-leakcanary-object-watcher-android-support-fragments-2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:5:5-44
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\SING\feature\launcher\app\src\main\AndroidManifest.xml
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\aceb453ab4ad29eec293220fbfb12de1\leakcanary-android-2.1\AndroidManifest.xml:24:13-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:30:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:35:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:46:9-59:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:48:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:50:13-71
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:51:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:49:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:53:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:52:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:47:13-77
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:61:9-67:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:65:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:63:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:64:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:67:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:66:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:62:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e12a13d349c4d06b00202d13c8ce7fcf\jetified-leakcanary-android-core-2.1\AndroidManifest.xml:69:19-74
+provider#leakcanary.internal.AppWatcherInstaller$MainProcess
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.1] C:\Users\dengjh\.gradle\caches\transforms-2\files-2.1\e55d72a4ac6c68c8868bc72364356bca\jetified-leakcanary-object-watcher-android-2.1\AndroidManifest.xml:9:13-79

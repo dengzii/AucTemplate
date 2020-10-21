@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\dev\\SING\\feature\\user\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,313",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "308,535"
+                    }
+                }
+            ]
+        }
+    ]
+}

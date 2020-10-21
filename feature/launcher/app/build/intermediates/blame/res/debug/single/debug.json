@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_activity.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_leak_activity.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_ref_row.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_leak_canary_icon_foreground.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-anydpi-v24\\leak_canary_icon_foreground.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_row.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_info.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-ldpi-v4\\leak_canary_info.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_info.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-mdpi-v4\\leak_canary_info.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_leak_canary_icon.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-anydpi-v24\\leak_canary_icon.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_leak.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-hdpi-v4\\leak_canary_leak.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_tab_background.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-v21\\leak_canary_tab_background.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leak_canary_info.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-anydpi-v21\\leak_canary_info.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_leak.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-mdpi-v4\\leak_canary_leak.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\mipmap-xxxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_leak.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-ldpi-v4\\leak_canary_leak.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_info.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-hdpi-v4\\leak_canary_info.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\color_leak_canary_bottom_menu.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\color\\leak_canary_bottom_menu.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_enter_forward.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\anim\\leak_canary_enter_forward.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\mipmap-hdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_icon_foreground.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-mdpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.xml.flat",
+        "source": "D:\\dev\\SING\\feature\\launcher\\app\\src\\main\\res\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_enter_backward.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\anim\\leak_canary_enter_backward.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\mipmap-mdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_dump.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxhdpi-v4\\leak_canary_dump.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_gray_fill.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable\\leak_canary_gray_fill.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_screen.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_leak_screen.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-hdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_icon_foreground.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxhdpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_about_screen.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_about_screen.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-ldpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_secondary_button.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-v21\\leak_canary_secondary_button.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\mipmap-xxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_hprof_explorer.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_hprof_explorer.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_leak_canary_icon.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\mipmap-anydpi-v26\\leak_canary_icon.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_analysis_failure_screen.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_heap_analysis_failure_screen.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_icon_foreground.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-hdpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_primary_button.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-v21\\leak_canary_primary_button.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_icon_foreground.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-ldpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_info_rectangle.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable\\leak_canary_info_rectangle.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_leak.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxhdpi-v4\\leak_canary_leak.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_count_background.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable\\leak_canary_count_background.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_header.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_leak_header.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_tab_selector_ripple.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-v21\\leak_canary_tab_selector_ripple.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_icon_foreground.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xhdpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_exit_forward.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\anim\\leak_canary_exit_forward.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_enter_alpha.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\anim\\leak_canary_enter_alpha.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_info.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxhdpi-v4\\leak_canary_info.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\mipmap-xhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_dump.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-ldpi-v4\\leak_canary_dump.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_dump.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-mdpi-v4\\leak_canary_dump.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\xml_leak_canary_file_paths.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\xml\\leak_canary_file_paths.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leak_canary_dump.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-anydpi-v21\\leak_canary_dump.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_info.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxxhdpi-v4\\leak_canary_info.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_dump.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-hdpi-v4\\leak_canary_dump.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\color_leak_canary_count_text.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\color\\leak_canary_count_text.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_dumps_screen.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_heap_dumps_screen.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_info.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xhdpi-v4\\leak_canary_info.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_render.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_heap_render.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_exit_alpha.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\anim\\leak_canary_exit_alpha.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_leak.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xhdpi-v4\\leak_canary_leak.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_dump.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xhdpi-v4\\leak_canary_dump.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_chips.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_leak_chips.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_toast_background.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_list.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_list.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_dump_toast.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_exit_backward.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\anim\\leak_canary_exit_backward.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_simple_row.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_simple_row.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_dump.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxxhdpi-v4\\leak_canary_dump.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_leak.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxxhdpi-v4\\leak_canary_leak.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_icon_foreground.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-xxxhdpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_icon.png.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-mdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leak_canary_leak.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\drawable-anydpi-v21\\leak_canary_leak.xml"
+    },
+    {
+        "merged": "D:\\dev\\SING\\feature\\launcher\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_dump_leak_title.xml.flat",
+        "source": "C:\\Users\\dengjh\\.gradle\\caches\\transforms-2\\files-2.1\\e12a13d349c4d06b00202d13c8ce7fcf\\jetified-leakcanary-android-core-2.1\\res\\layout\\leak_canary_heap_dump_leak_title.xml"
+    }
+]

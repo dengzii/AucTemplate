@@ -1,15 +1,15 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
-    ConfigUtils.init(gradle)
+
     repositories {
         google()
         jcenter()
-
     }
     dependencies {
-        for (def entrySet : ConfigUtils.getApplyPlugins().entrySet()) {
-            classpath entrySet.value.dep
-        }
+        classpath Config.depConfig.class_path_gradle
+        classpath Config.depConfig.class_path_kotlin
+        classpath Config.depConfig.class_path_bus
+        classpath Config.depConfig.class_path_api
     }
 }
 
@@ -17,7 +17,6 @@ allprojects {
     repositories {
         google()
         jcenter()
-
     }
 }
 

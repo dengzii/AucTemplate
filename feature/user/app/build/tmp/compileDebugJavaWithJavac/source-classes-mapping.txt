@@ -1,0 +1,56 @@
+com/example/sing/R.java
+ com.example.sing.R
+ com.example.sing.R$anim
+ com.example.sing.R$attr
+ com.example.sing.R$bool
+ com.example.sing.R$color
+ com.example.sing.R$dimen
+ com.example.sing.R$drawable
+ com.example.sing.R$id
+ com.example.sing.R$layout
+ com.example.sing.R$mipmap
+ com.example.sing.R$plurals
+ com.example.sing.R$string
+ com.example.sing.R$style
+ com.example.sing.R$styleable
+ com.example.sing.R$xml
+com/squareup/leakcanary/fragments/androidx/R.java
+ com.squareup.leakcanary.fragments.androidx.R
+com/squareup/leakcanary/fragments/android_support/R.java
+ com.squareup.leakcanary.fragments.android_support.R
+com/example/sing/BuildConfig.java
+ com.example.sing.BuildConfig
+com/squareup/leakcanary/objectwatcher/R.java
+ com.squareup.leakcanary.objectwatcher.R
+com/squareup/leakcanary/R.java
+ com.squareup.leakcanary.R
+ com.squareup.leakcanary.R$anim
+ com.squareup.leakcanary.R$attr
+ com.squareup.leakcanary.R$bool
+ com.squareup.leakcanary.R$color
+ com.squareup.leakcanary.R$dimen
+ com.squareup.leakcanary.R$drawable
+ com.squareup.leakcanary.R$id
+ com.squareup.leakcanary.R$layout
+ com.squareup.leakcanary.R$mipmap
+ com.squareup.leakcanary.R$plurals
+ com.squareup.leakcanary.R$string
+ com.squareup.leakcanary.R$style
+ com.squareup.leakcanary.R$styleable
+ com.squareup.leakcanary.R$xml
+com/squareup/leakcanary/core/R.java
+ com.squareup.leakcanary.core.R
+ com.squareup.leakcanary.core.R$anim
+ com.squareup.leakcanary.core.R$attr
+ com.squareup.leakcanary.core.R$bool
+ com.squareup.leakcanary.core.R$color
+ com.squareup.leakcanary.core.R$dimen
+ com.squareup.leakcanary.core.R$drawable
+ com.squareup.leakcanary.core.R$id
+ com.squareup.leakcanary.core.R$layout
+ com.squareup.leakcanary.core.R$mipmap
+ com.squareup.leakcanary.core.R$plurals
+ com.squareup.leakcanary.core.R$string
+ com.squareup.leakcanary.core.R$style
+ com.squareup.leakcanary.core.R$styleable
+ com.squareup.leakcanary.core.R$xml
